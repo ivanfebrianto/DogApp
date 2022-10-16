@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563378806949",
+    "project_id": "finalexam-60287",
+    "storage_bucket": "finalexam-60287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563378806949:android:cb59effcfc895c8a4f2d4c",
+        "android_client_info": {
+          "package_name": "com.example.ujianakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563378806949-cgj6qsdjunokdtucj2libaa9ca7dj87a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ujianakhir",
+            "certificate_hash": "f2a9963e996daa6ee9806d4f278f1f84df0373b8"
+          }
+        },
+        {
+          "client_id": "563378806949-t56d32ip5603ho1t2mcascjmvhjdaf2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrG-FgScZlx90RA-M_qPSPmOzrQf7pZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563378806949-t56d32ip5603ho1t2mcascjmvhjdaf2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
